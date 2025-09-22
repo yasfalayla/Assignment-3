@@ -14,15 +14,21 @@ Fungsi dari clone yaitu untuk menggandakan repository dari GitHub (remote) ke ko
 **2. Add File**
 
 Selanjutnya yaitu menambahkan file baru bernama assignment1.md ke repository.
+Fungsi dari add yaitu menandai file yang siap dimasukkan ke commit.
 
 **3. Commit**
 
 Setelah file ditambahkan, saya menyimpan perubahan ke repository lokal dengan perintah:
 <img src="Screenshot 2025-09-22 214338.png" alt="Screenshot 2025-09-22 214338" width="400">
 
+Fungsi dari commit yaitu menyimpan snapshot perubahan yang sudah di-add ke dalam riwayat Git.
+
 **4. Mengirim Perubahan ke GitHub**
 
 Perubahan yang sudah dicatat kemudian dikirm pada GitHub dengan perintah:
 <img src="Screenshot 2025-09-22 214351.png" alt="Screenshot 2025-09-22 214351" width="400">
 
+Fungsi dari push adalah mengirim commit dari repo lokal ke repo GitHub (remote).
+
 ### Hasil dari Perintah
+<img src="Screenshot 2025-09-22 215527.png" alt="Screenshot 2025-09-22 215527" width="400">
